@@ -1,7 +1,10 @@
 click @ file:///Users/dongookson/Library/Caches/pypoetry/artifacts/63/f3/4c/2270b95f4d37b9ea73cd401abe68b6e9ede30380533cd4e7118a8e3aa3/click-8.1.3-py3-none-any.whl
+commonmark @ file:///Users/dongookson/Library/Caches/pypoetry/artifacts/0c/3e/31/72ae961fc7cf12a740a5c8f2a3ad48780c362e5295529c4c62a41eaa7e/commonmark-0.9.1-py2.py3-none-any.whl
 dnspython @ file:///Users/dongookson/Library/Caches/pypoetry/artifacts/00/cd/c9/874532bd938c8d6dd01912999763d01e7330936159deba8244d23c7ba0/dnspython-2.2.1-py3-none-any.whl
 filelock @ file:///Users/dongookson/Library/Caches/pypoetry/artifacts/53/67/2e/f1248f42be28a49e5054dee3cb8dd1a272cfb9f7fd88c82d71314e308d/filelock-3.8.0-py3-none-any.whl
 idna @ file:///Users/dongookson/Library/Caches/pypoetry/artifacts/6c/c4/9a/4a40812e61d669fffc474987128ff48aab9be33cdddc5e5038bd96f4ac/idna-3.4-py3-none-any.whl
 pex @ file:///Users/dongookson/Library/Caches/pypoetry/artifacts/c7/e6/b9/d49390a7874d4082ff3c09328188297a3733a26f37763fd170addf0330/pex-2.1.105-py2.py3-none-any.whl
 py3-validate-email @ file:///Users/dongookson/Library/Caches/pypoetry/artifacts/c1/5f/16/27259bda2d3490958a5805016de3fe7d8f8e9d172d05cf63bdb97866d1/py3-validate-email-1.0.7.tar.gz
+Pygments @ file:///Users/dongookson/Library/Caches/pypoetry/artifacts/b5/d5/c4/6dbc728128a5cb37e5da9956d152c4eba518e3ff024956d0907394b234/Pygments-2.13.0-py3-none-any.whl
+rich @ file:///Users/dongookson/Library/Caches/pypoetry/artifacts/75/60/42/6d507c73c3c79b424feb01866567a94661f44ed2c9f84b41157a261a28/rich-12.5.1-py3-none-any.whl
 typer @ file:///Users/dongookson/Library/Caches/pypoetry/artifacts/f9/bf/c3/67a60a5a768ba86fb724165286e2855fe10ba34b46bd5f956ef4833066/typer-0.6.1-py3-none-any.whl

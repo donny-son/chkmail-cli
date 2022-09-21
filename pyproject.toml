@@ -10,6 +10,7 @@ python = "=3.10.6"
 py3-validate-email = "^1.0.7"
 typer = "^0.6.1"
 pex = "^2.1.105"
+rich = "^12.5.1"
 
 [tool.poetry.dev-dependencies]
 
