@@ -6,7 +6,9 @@
 
 ## 사용법
 
-`dist/chkmail` 바이너리를 PATH 에 추가해서 다음처럼 사용하면됩니다.
+![Example Usage](./assets/example.png)
+
+`dist/chkmail` 바이너리를 `PATH` 에 추가해서 다음처럼 사용하면됩니다.
 
 ```bash
 chkmail <email>
