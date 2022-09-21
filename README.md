@@ -8,6 +8,8 @@ Python version 3.10.6.
 
 ```bash
 poetry install
+make build
+make install
 ```
 
 ## 사용법
