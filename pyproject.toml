@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "chkmail"
+version = "0.1.0"
+description = "Simple CLI tool to check if email address can be reached."
+authors = ["Dongook Son <60206749+donny-son@users.noreply.github.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "=3.10.6"
+py3-validate-email = "^1.0.7"
+typer = "^0.6.1"
+pex = "^2.1.105"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
