@@ -1,4 +1,5 @@
 build:
+	mkdir dist
 	poetry run pex \
 	--requirement=requirements.txt \
 	--sources-directory=. \

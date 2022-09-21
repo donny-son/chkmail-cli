@@ -2,7 +2,13 @@
 
 이메일이 존재하는지 확인하기 위한 CLI 프로그램입니다.
 
-`dist/` 폴더에 빌드된 바이너리가 있습니다.
+## Installation
+
+Python version 3.10.6.
+
+```bash
+poetry install
+```
 
 ## 사용법
 
